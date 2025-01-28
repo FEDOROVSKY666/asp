@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\lr_one.props" />
-</Project>
